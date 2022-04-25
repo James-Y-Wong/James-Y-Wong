@@ -10,7 +10,7 @@ When I am not developing applications, I enjoy hiking, watching Atlanta sports, 
 # 🤝 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-yeu-wong/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/James-Y-Wong/hw-2-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://james-y-wong.github.io/professional-portfolio/)
 
 
 💬 Please do not hesitate to reach out to me!
