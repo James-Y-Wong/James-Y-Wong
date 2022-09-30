@@ -3,7 +3,7 @@
 # Hi there, I'm James 👋
 # I'm a Full-Stack Web Developer
 
-I have an extensive background in Supply Chain. Currently training at Georgia Tech Coding Bootcamp and progressing towards a certificate in Full Stack Web Development. I have a strong ability to collaborate and build applications through full cycle development. I am able to work in diverse team environments on tight timelines implementing solutions to identified issues and inefficiencies.
+I have an extensive background in Supply Chain. Trained at Georgia Tech Coding Bootcamp and received a certificate in Full Stack Web Development. I have a strong ability to collaborate and build applications through full cycle development. I am able to work in diverse team environments on tight timelines implementing solutions to identified issues and inefficiencies.
 
 When I am not developing applications, I enjoy hiking, watching Atlanta sports, playing tennis, running, eating, and anything Netflix. 
 
